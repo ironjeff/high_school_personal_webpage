@@ -1,0 +1,25 @@
+<html>
+<head>
+
+<title>Welcome to my Homepage</title>
+
+<meta http-equiv="template" content="Jeff, Homepage, Calvin and Hobbes, Money, Games">
+<meta http-equiv="author" content="jeffoo@uswest.net">
+<meta http-equiv="date" content="Tue Jun  2 15:17:53 1998">
+<meta http-equiv="PICS-Label" content='(PICS-1.1
+"http://www.classify.org/safesurf/" l by "jeffoo@uswest.net" r (
+SS~~001 @profanitySS~~002 @heteroSS~~003 @homoSS~~004 @nuditySS~~005 @violenceSS~~006 @sexviolSS~~007 @intolSS~~008 @druguseSS~~009 @adultSS~~00A @gamble))'>
+
+</HEAD>
+
+<FRAMESET ROWS="100%" COLS="25%,*">
+<FRAME SRC="http://www.users.uswest.net/~jeffoo/links.htm" name="links">
+<FRAME SRC="http://www.users.uswest.net/~jeffoo/main.htm" name="main">
+<NOFRAMES>
+<Center>
+Sorry, but my homepage has frames.  If you would still like to visit it, please click
+<A HREF="http://www.users.uswest.net/~jeffoo/main.htm">here</A>.  It doesn't have the links, but the bulk is there.
+</NOFRAMES>
+</FRAMESET>
+
+</HTML>

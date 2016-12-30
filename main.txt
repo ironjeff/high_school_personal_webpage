@@ -1,0 +1,97 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta http-equiv="template" content="Jeff, Homepage, Calvin and Hobbes, Money, Games">
+   <meta http-equiv="author" content="jeffoo@uswest.net">
+   <meta http-equiv="date" content="Tue Jun  2 15:17:53 1998">
+   <meta http-equiv="PICS-Label" content="(PICS-1.1">
+   <meta name="GENERATOR" content="Mozilla/4.5 [en] (Win98; I) [Netscape]">
+   <title>Welcome to my Homepage</title>
+</head>
+<body background="background.gif">
+
+<center><font color="#000000"><font size=-2>This page was designed to look
+best with Internet Explorer 5.0 at 1024 x 768 resolution. :) Incase it's
+all screwy.</font></font>
+
+<p><img SRC="banner.gif" ALT="Welcome" height=58 width=530>
+
+<p><img SRC="smallcalvin.gif" ALT="Hi!" height=52 width=45>
+
+<p><font face="Times New Roman"><font size=+1><font color="#0000FF">Hi!
+</font><font color="#000000">Here's
+my homepage. It's nothing special, just something I did in my spare time.</font></font></font>
+
+<p><img SRC="doggie.gif" ALT="Woof." height=35 width=200>
+
+<br>
+
+<hr SIZE=5 WIDTH="75%">
+
+<br><b><u><font face="Courier New,Courier"><font color="#000099"><font size=+2>MY
+CAR!</font></font></font></u></b>
+<p>
+<a href="http://www.honda1999.com/cars/civic_coupe/"><img SRC="MyCar.jpg" height=153 width=355></a>
+<br>
+<hr SIZE=5 WIDTH="75%"><!Begin My Ski Table>
+<br><b><u>
+<font face="Courier New,Courier"><font color="#000099"><font size=+2>MY
+SKIS!</font></font></font></u></b>
+<p>
+
+<img SRC="cornice.jpg" ALT="That's me.  :)" BORDER=0 height=234 width=176></center>
+
+<p><br>
+<center><table BORDER WIDTH="50%" BGCOLOR="#FFFFFF" >
+<tr>
+<td VALIGN=TOP WIDTH="25%"><u><font color="#000099"><font size=+1>GEAR</font></font></u></td>
+
+<td ALIGN=CENTER><u><font color="#000099"><font size=+1>DESCRIPTION</font></font></u></td>
+</tr>
+
+<tr>
+<td>Skis:</td>
+
+<td ALIGN=CENTER>Dynastar Assault V8 Racing Profile Skis</td>
+</tr>
+
+<tr>
+<td>Height:</td>
+
+<td ALIGN=CENTER>175 centimeters</td>
+</tr>
+
+<tr>
+<td>Bindings:</td>
+
+<td ALIGN=CENTER>Tyrolia 670s</td>
+</tr>
+
+<tr>
+<td>Poles:</td>
+
+<td ALIGN=CENTER>Scott Incline</td>
+</tr>
+
+<tr>
+<td>Boots:</td>
+
+<td ALIGN=CENTER>Salomon 4.0 Team</td>
+</tr>
+</table></center>
+
+<center><!End of my Ski Table>
+<br>
+<hr SIZE=7 WIDTH="80%"><!-- BEGIN FASTCOUNTER CODE --><a href="http://member.linkexchange.com/cgi-bin/fc/fastcounter-login?995625" target="_top"><img SRC="fastcounter" BORDER=0 height=16 width=90></a><!-- END FASTCOUNTER CODE -->
+<br><!-- BEGIN FASTCOUNTER LINK --><b><font face="arial"><font size=-2><a href="http://fastcounter.linkexchange.com/fc-join" target="_top">FastCounter
+by LinkExchange</a></font></font></b>
+<br><!-- END FASTCOUNTER LINK --><b><u><font face="Times New Roman"><font color="#006600"><font size=+0>Page
+created by:</font></font></font></u></b>
+<br><a href="mailto:Jeffoo@ix.netcom.com" onMouseOver="window.status='Email me.'; return true"><img SRC="smiley.gif" ALT="Mail to me!" height=30 width=87></a>
+<br><b><font face="Times New Roman"><font size=+0><font color="#333333">Changes
+last made on:</font><font color="#FF0000"> </font><i><font color="#663366">Sat
+Mar 20 7:11:28 1999</font></i></font></font></b></center>
+
+</body>
+</html>
